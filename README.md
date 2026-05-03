@@ -2,7 +2,7 @@
 
 ## Methodology
 
-This project computes ground-state energies of small molecules (H₂, N₂, and LiH) using the Variational Quantum Eigensolver implemented with Qiskit and Qiskit Nature.
+This project computes ground-state energies of small molecules (H₂, N₂, and LiH) using the Variational Quantum Eigensolver implemented with Qiskit, Qiskit Nature and PySCF.
 
 ### Workflow
 
